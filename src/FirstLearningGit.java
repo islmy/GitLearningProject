@@ -10,6 +10,9 @@ public class FirstLearningGit {
 	System.out.println("Burasi localdan...");
 	System.out.println("Burasi remote'dan...");
 	System.out.println("meraba Kadir");	
+		
+		
+	System.out.println("this is from cloud 15");	
 
 	
 
