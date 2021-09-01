@@ -20,7 +20,10 @@ public class FirstLearningGit {
 		System.out.println("conflict 20");
 	
 	System.out.println("güncelleme 21. satir");
+	System.out.println("23. satir güncelleme");
+	
 
 	
 
+}
 }
