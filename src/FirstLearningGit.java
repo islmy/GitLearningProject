@@ -17,6 +17,8 @@ public class FirstLearningGit {
 	System.out.println("this is for the Branch change");
 		
 	System.out.println("güncelleme 19. satur");
+	
+	System.out.println("güncelleme 21. satir");
 
 	
 
