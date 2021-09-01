@@ -18,6 +18,8 @@ public class FirstLearningGit {
 		
 		
 	System.out.println("20. satir learning branch");
+		
+		System.out.println("to merge");
 
 	
 
