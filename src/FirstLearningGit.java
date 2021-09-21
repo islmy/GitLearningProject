@@ -23,6 +23,9 @@ public class FirstLearningGit {
 	System.out.println("23. satir güncelleme");
 	
 	System.out.println("tüm hatalar düzeltildi");
+
+System.out.println("update");
+
 	
 
 	
